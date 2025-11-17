@@ -1,9 +1,12 @@
 ## Sup!!!!! 👋
 
-My name is Kuba, i am a IT Student at Silesian University of Technology.
-I am passionate about Web Development, Graphics Design and Software Development.
+<p>My name is Kuba, i am a IT Student at Silesian University of Technology.</p>
+I am passionate about <strong>Web Development, Graphics Design and Software Development</strong>.
+<br>
 I am learing how to make, develop and maintain a commercial-level software.
-### Tech Stack:
+<br>
+<br>
+<p>Tech Stack:</p>
 
 <div classname="flex flex-row">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px"/> 
