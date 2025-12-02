@@ -6,7 +6,7 @@ I am passionate about <strong>Web Development, Graphics Design and Software Deve
 I am learing how to make, develop and maintain a commercial-level software.
 <br>
 <br>
-<p>Tech Stack:</p>
+<p>I'm learning:</p>
 
 <div classname="flex flex-row">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px"/> 
