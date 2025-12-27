@@ -1,7 +1,7 @@
 ## Sup!!!!! 👋
 
 <p>My name is Kuba, i am a IT Student at Silesian University of Technology.</p>
-I am passionate about <strong>Web Development, Graphics Design and Software Development</strong>.
+I am passionate about <strong>Web Development, Software Development and Graphics Design</strong>.
 <br>
 I am learing how to make, develop and maintain a commercial-level software.
 <br>
