@@ -23,6 +23,3 @@ I am learing how to make, develop and maintain a commercial-level software.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" 
       
 </div>
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKubis&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="MrKubis's GitHub Stats"  width="50%"/>
